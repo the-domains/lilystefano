@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lily Stefano for Mayor]]></title>
+        <description><![CDATA[Lily Stefano for Mayor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Aug 2016 16:21:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebffd770-0645-4dc6-a8fb-c2637a88dddc.png">]]></description>
+            <link>undefinedvote-lily-stefano-for/index.html</link>
+            <guid isPermaLink="false">5e11e2e2-6569-4630-98fa-68d4edd7ab0e</guid>
+            <pubDate>Mon, 01 Aug 2016 16:21:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
